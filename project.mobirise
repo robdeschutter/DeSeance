@@ -13,7 +13,8 @@
     "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 6,
-    "versionPublish": "4.5.4"
+    "versionPublish": "4.5.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -40,14 +41,17 @@
             "bgColor": "#fff8e0",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/i9pJEQZzH2Y?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=i9pJEQZzH2Y",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "title": "De Seance",
-          "text": "In our lives we've all heard stories of ghosts, maybe even at times felt  the presence of<br>something out of the normal, something extraordinary…<br>During an intimate evening N Martens &amp; R De Schutter offer a glimpse in to the amazing realm of spirits and ghosts by evoking a Vinctorian Séance in a modern and intimate setting.<br>Our spirit table fits 8 people, 2 mediums and hopefully some spirits…<br>",
+          "text": "In our lives, we've all heard stories of ghosts.<br>Maybe even at times felt  the presence of&nbsp;something out of the normal<br>something extraordinary, ourselves…<br>During an intimate evening psychic entertainers and explorers Nikolaas M and Rob DS <br>offer a glimpse into the amazing realm of spirits and ghosts <br>by evoking a classic Vinctorian Séance.<br><br>The spirit table fits 8 people, 2 mediums and hopefully some spirits…<br><br>On invitation only.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -67,190 +71,10 @@
         {
           "_params": {
             "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "What Our Fantastic Users Say",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
-            }
-          ],
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-3",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
-            }
-          ]
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Mobirise",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Modern Styles",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-4"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-5"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#000000",
@@ -258,17 +82,17 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Join the Guestlist",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Subscribe</a>",
+          "title": "Register for our Guest List",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
             "action": "robdeschutter@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you, you will be notified in due time."
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Enter E-mail Address here"
               }
             }
           },
@@ -281,6 +105,10 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
         }
