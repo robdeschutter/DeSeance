@@ -41,12 +41,12 @@
             "bgColor": "#fff8e0",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/i9pJEQZzH2Y?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=i9pJEQZzH2Y",
+              "url": "https://www.youtube.com/embed/QAMRqcjzwT0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/QAMRqcjzwT0",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
