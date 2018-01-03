@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/seance-favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 6,
