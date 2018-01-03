@@ -6,13 +6,15 @@
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#413d31"
+      ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/seance-favicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/seance-favicon-128x128-1.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
