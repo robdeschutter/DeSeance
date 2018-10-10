@@ -14,7 +14,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/seance-favicon-128x128-1.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -53,7 +53,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "De Seance",
-          "text": "In our lives, we've all heard stories of ghosts.<br>Maybe even at times felt  the presence of&nbsp;something extraordinary, ourselves…<br><br>During an intimate evening, psychic entertainers &amp; explorers Nikolaas M and Rob DS <br>offer a glimpse into the amazing realm of spirits and ghosts <br>by evoking a classic Victorian Séance.<br><br>The spirit table fits 8 guests, 2 mediums and hopefully some spirits…<br><br>On invitation only.",
+          "text": "In our lives, we've all heard stories of ghosts.<br>Maybe even at times felt  the presence of&nbsp;something extraordinary, ourselves…<br><br>During an intimate evening, psychic entertainers &amp; explorers Nikolaas M and Rob DS <br>offer a glimpse into the amazing realm of <a href=\"https://www.robokop.be/deseance\">spirits</a> and ghosts <br>by evoking a classic Victorian Séance.<br><br>The spirit table fits 8 guests, 2 mediums and hopefully some spirits…<br><br>On invitation only.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -111,6 +111,38 @@
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Follow Us</p>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook btn-black-outline btn-black\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/DeSeance-326509571198308/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram btn-black\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/deseance.be/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            ".mbr-section-title P": {
+              "text-align": "left"
             }
           }
         }
